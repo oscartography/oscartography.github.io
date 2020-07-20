@@ -59,7 +59,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "OSCartography"
+  name   : "@OSCartography"
   avatar : "/assets/images/apple_logo.jpg"
   bio    : "A blog to share the exploration of various Operating Systems through reverse engineering, exploitation and software development"
   links:
