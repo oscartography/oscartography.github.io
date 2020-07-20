@@ -60,7 +60,7 @@ plugins:
 
 author:
   name   : "OSCartography"
-  avatar : "/assets/images/bio_apple.jpg"
+  avatar : "/assets/images/apple_logo.jpg"
   bio    : "Security researcher with an interest in Operating System internals"
   links:
     - label: "Twitter"
