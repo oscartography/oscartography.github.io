@@ -66,25 +66,12 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/OSCartography"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/oscartography"
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:oscartography@gmail.com"
-      
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/OSCartography"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/oscartography"
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:oscartography@gmail.com"
 
 defaults:
   # _posts
